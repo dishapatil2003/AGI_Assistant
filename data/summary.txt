@@ -1,0 +1,24 @@
+
+Observed text from frames:
+[]
+
+Transcribed audio:
+open notepad and type daily report
+
+Inferred workflow:
+{
+    "steps": [
+        {
+            "action": "open_app",
+            "details": {
+                "app": "notepad"
+            }
+        },
+        {
+            "action": "type_text",
+            "details": {
+                "text": "daily report"
+            }
+        }
+    ]
+}

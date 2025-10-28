@@ -1,0 +1,16 @@
+{
+    "steps": [
+        {
+            "action": "open_app",
+            "details": {
+                "app": "notepad"
+            }
+        },
+        {
+            "action": "type_text",
+            "details": {
+                "text": "daily report"
+            }
+        }
+    ]
+}
